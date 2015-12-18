@@ -26,7 +26,7 @@
         "./"
     ],
     "license": "PHP License",
-    "name": "pear/image_barcode2",
+    "name": "gemorroj/image_barcode2",
     "support": {
         "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=Image_Barcode2",
         "source": "https://github.com/pear/Image_Barcode2"
