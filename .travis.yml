@@ -2,12 +2,12 @@ language: php
 install:
   - pear install package.xml
 php:
-  - hhvm
+#  - hhvm
   - nightly
   - 7.0
   - 5.6
   - 5.5
   - 5.4
   - 5.3
-  - 5.2
+#  - 5.2
 script: phpunit tests/
